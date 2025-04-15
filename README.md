@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Dashboard
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Fraud+Detection+Dashboard+Screenshot)
+![Dashboard Demo](https://github.com/sumitdeole/aml_dashboard/blob/main/dashboard_demo.gif), [Network Graph](https://github.com/sumitdeole/aml_dashboard/blob/main/Fraud_network_analysis.pdf)
 
 A Streamlit-powered interactive dashboard for analyzing credit card fraud patterns through network visualization and transaction analysis. 
 
