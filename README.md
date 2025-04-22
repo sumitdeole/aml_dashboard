@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection Dashboard
 This project creates a Streamlit-powered interactive dashboard for analyzing credit card fraud patterns through network visualization and transaction analysis. 
 
-![Dashboard Demo](https://github.com/sumitdeole/aml_dashboard/blob/main/dashboard_demo.gif)
+[View Dashboard Demo](https://github.com/sumitdeole/aml_dashboard/blob/main/dashboard_demo.gif)
 
 
 
@@ -42,5 +42,5 @@ This dashboard uses the **Credit Card Fraud Detection Dataset** from Kaggle:
 - Client Selection: Choose between example fraud/legitimate clients or random clients
 - Network Visualization: See [Network Graph](https://github.com/sumitdeole/aml_dashboard/blob/main/Fraud_network_analysis.pdf)
 - Detailed Transaction View: Explore all transactions with fraud highlighting
-- Fraud Analytics: View fraud-specific metrics and timelines
+- Fraud Analytics: View fraud-specific metrics and timelines ([View Dashboard Demo](https://github.com/sumitdeole/aml_dashboard/blob/main/dashboard_demo.gif))
 
