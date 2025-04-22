@@ -1,8 +1,9 @@
 # Credit Card Fraud Detection Dashboard
+This project creates a Streamlit-powered interactive dashboard for analyzing credit card fraud patterns through network visualization and transaction analysis. 
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Fraud+Detection+Dashboard+Screenshot)
+![Dashboard Demo](https://github.com/sumitdeole/aml_dashboard/blob/main/dashboard_demo.gif)
 
-A Streamlit-powered interactive dashboard for analyzing credit card fraud patterns through network visualization and transaction analysis. 
+
 
 ## Dataset Information
 
@@ -17,33 +18,29 @@ This dashboard uses the **Credit Card Fraud Detection Dataset** from Kaggle:
 
 1. Download the dataset from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 2. Place the `creditcard.csv` file in a `data/` directory in your project folder
-3. The file structure should look like:
-your-project/
-├── data/
-│ └── creditcard.csv
-├── app.py
-└── README.md
+
 
 
 ## Installation & Setup
 
 1. **Clone the repository**:
-```bash
-git clone https://github.com/yourusername/credit-card-fraud-dashboard.git
-cd credit-card-fraud-dashboard
+
+`git clone https://github.com/yourusername/credit-card-fraud-dashboard.git`
+
+`cd credit-card-fraud-dashboard`
 
 2. Install dependencies:
-```python
-pip install streamlit pandas numpy plotly networkx matplotlib scikit-learn imbalanced-learn
+
+`pip install streamlit pandas numpy plotly networkx matplotlib scikit-learn imbalanced-learn`
 
 3. Run the dashboard:
-```python
-streamlit run app.py
+
+`streamlit run app.py`
 
 
 ## Dashboard Features
 - Client Selection: Choose between example fraud/legitimate clients or random clients
-- Network Visualization: See transaction patterns as interactive network graphs
+- Network Visualization: See [Network Graph](https://github.com/sumitdeole/aml_dashboard/blob/main/Fraud_network_analysis.pdf)
 - Detailed Transaction View: Explore all transactions with fraud highlighting
 - Fraud Analytics: View fraud-specific metrics and timelines
 
